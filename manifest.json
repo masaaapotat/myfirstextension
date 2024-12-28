@@ -5,7 +5,7 @@
     "description": "A basic example extension with only required keys, for heeloworld",
     "icons": {
         "16": "images/icon.png",
-        
+
         "32": "images/icon.png",
         "48": "images/icon.png",
         "128": "images/icon.png"
@@ -15,7 +15,9 @@
           "16": "images/icon.png", 
           "24": "images/icon.png",  
           "32": "images/icon.png" 
-        }
+        },
+        "default_title": "Click Me"
+      
         
       }
   }
