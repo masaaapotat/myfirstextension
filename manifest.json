@@ -23,5 +23,6 @@
         "default_title": "My amazing xchrome extension"
       
         
-      }
+      },
+       "options_page": "options.html"
   }
