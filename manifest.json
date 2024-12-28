@@ -2,5 +2,11 @@
     "manifest_version": 3,
     "name": "Minimal Manifest",
     "version": "1.0.0",
-    "description": "A basic example extension with only required keys, for heeloworld"
+    "description": "A basic example extension with only required keys, for heeloworld",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
   }
