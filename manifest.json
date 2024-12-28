@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "description": "A basic example extension with only required keys, for heeloworld",
     "author": "mercy@gmail.com",
+    "language": "en",
     "icons": {
         "16": "images/icon.png",
 
