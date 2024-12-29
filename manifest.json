@@ -32,7 +32,7 @@
         {
           "matches": ["https://*.google.com/*"],
         
-          "js": ["contentscript.js"]
+          "js": ["contentScript.js"]
         }
       ]
   }
