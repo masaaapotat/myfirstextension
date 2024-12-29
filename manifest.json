@@ -20,7 +20,7 @@
           "32": "images/icon.png" 
         },
         "default_popup": "popup.html" ,
-        "default_title": "My amazing xchrome extension"
+        "default_title": "My amazing chrome extension"
       
         
       },
