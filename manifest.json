@@ -27,5 +27,12 @@
        "options_page": "options.html",
        "background": {
         "service_worker": "background.js"
-      }
+      },
+      "content_scripts": [
+        {
+          "matches": ["https://*.google.com/*"],
+          "css": ["my-styles.css"],
+          "js": ["content-script.js"]
+        }
+      ]
   }
